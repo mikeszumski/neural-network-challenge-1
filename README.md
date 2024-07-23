@@ -2,7 +2,7 @@
 
 Thsi Cnallenge has two goals:
 1. Develop a neural-network model to predict loan payment success.
-2. Discuss development of a student loan recommendation page.
+2. Discuss development of a student loan recommendation application.
 
 ## Source
 All code is based on templates provided, and is my work.
