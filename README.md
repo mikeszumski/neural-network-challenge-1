@@ -9,3 +9,5 @@ All code is based on templates provided, and is my work.
 
 ## Where is the code?
 The code module, student_loans_with_deep_learning.ipynb, is in the top level folder of my "neural-network-challenge-1" repo.
+
+A data file containing the neural network model, student_loans.keras, in the same folder.
