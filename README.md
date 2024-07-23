@@ -1,6 +1,6 @@
 # Module 18 Challenge - neural-network-challenge-1
 
-Thsi Cnallenge has two goals:
+This challenge has two goals:
 1. Develop a neural-network model to predict loan payment success.
 2. Discuss development of a student loan recommendation application.
 
